@@ -12,4 +12,4 @@ code .: Opens VS Code in the current directory.
 
 git commit -m "": Commits the staged files with the message "".
 
-git push: Pushes commited files to remote repo
+git push: Pushes committed files to remote repo
